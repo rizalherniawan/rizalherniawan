@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I’m Muhammad Rizal Herniawan
 
-<!--
-**rizalherniawan/rizalherniawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Engineer | 3+ Years Experience | Building Scalable Systems**  
 
-Here are some ideas to get you started:
+I enjoy solving complex backend problems, designing clean architectures, and building systems that serve real users. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack  
+- **Languages**: Go, Java, JavaScript/TypeScript, Python
+- **Backend**: Spring Boot, Gin, Express.js, NestJS
+- **Databases**: MySQL, PostgreSQL, Redis  
+- **Infra & Tools**: Docker, CI/CD (GitHub Actions)
+- **Other**: System Design, API Development  
+
+---
+
+## 📌 Featured Projects  
+- **Elevator Animation (Parallel Execution)** – A JavaScript demo that visualizes elevator movements while showcasing asynchronous programming with `Promise.all`.  
+- **Articles Management API** – A Go-based REST API enhanced with **Meilisearch** for fast and efficient full-text article search.  
+- **Microservices with Docker** – A demonstration of microservices architecture, with each service independently containerized and orchestrated using Docker.  
+- **Spring Boot API** – A Spring Boot project connected to MySQL, featuring authentication and secure data management.  
+
+
+---
+
+## 📈 Current Focus  
+- Building several backend projects (CI/CD pipelines, system design demos, developer tooling).  
+- Exploring **AI engineering** and how it integrates with real-world product systems.  
+
+---
+
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-rizal-herniawa)  
+- 📧 [rizalherniawan@gmail.com]   
+
+---
+
+✨ *Always learning, always building.*  
