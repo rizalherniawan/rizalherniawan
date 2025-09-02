@@ -31,7 +31,7 @@ I enjoy solving complex backend problems, designing clean architectures, and bui
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-rizal-herniawa)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-rizal-herniawan)  
 - 📧 [rizalherniawan@gmail.com]   
 
 ---
